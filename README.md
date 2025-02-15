@@ -17,3 +17,9 @@ Gradle (Dependency Management)
 Local Database (SQLite/MySQL)
 Object-Oriented Design (OOD) & SOLID Principles
 
+🤝 Open for Feedback
+This is a practice project, and I'm always looking to improve! If you find any issues or have suggestions, feel free to open an issue or share your thoughts. 😃
+
+📜 License
+This project is for learning purposes only. Feel free to modify and use it as needed.
+
